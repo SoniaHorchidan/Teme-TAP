@@ -48,7 +48,7 @@ public class Main {
 		HuffmanTree huffman = new HuffmanTree(root);
 		
 		//Code
-		/*try{
+		try{
 			scan = new Scanner(new File("text"));
 			scan.useDelimiter("");
 			PrintWriter writer = new PrintWriter("codificare", "UTF-8");
@@ -63,7 +63,7 @@ public class Main {
 		finally{
 			scan.close();
 		}
-		*/
+		
 		
 		//Decode
 		try{
